@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "348144963413",
+    "project_id": "agroapp2",
+    "storage_bucket": "agroapp2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348144963413:android:baeabd5c6a0d29f438e9dc",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_9"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN-fYm7W3HgBvrZKbI15RQORcExTLlvuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
